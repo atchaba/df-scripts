@@ -1,1 +1,1 @@
-Invoke-Command Restart-Computer
+Restart-Computer
