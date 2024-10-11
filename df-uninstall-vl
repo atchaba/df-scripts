@@ -1,0 +1,2 @@
+$Myapp1 = Get-WmiObject -Class Win32_Product | Where-Object{$_.Name -eq "VeraLab Guard 8.7.0"}
+$Myapp1.Uninstall()
