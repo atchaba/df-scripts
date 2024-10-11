@@ -1,1 +1,1 @@
-Clear-RecycleBin -Force
+Clear-RecycleBin -Force -ErrorAction SilentlyContinue
