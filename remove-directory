@@ -1,1 +1,1 @@
-Remove-Item $args[0] -Force  -Recurse -ErrorAction SilentlyContinue
+Remove-Item $args[0] -Force  -Recurse
