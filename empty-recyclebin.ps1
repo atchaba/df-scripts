@@ -1,1 +1,1 @@
-Clear-RecycleBin -Confirm:$false -ErrorAction SilentlyContinue
+Clear-RecycleBin -Confirm:$false
