@@ -1,2 +1,1 @@
-Rename-Computer -NewName "CBT-Tutoring-01"
-Restart-Computer -Force
+Rename-Computer -NewName $args[0]
