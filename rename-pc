@@ -1,1 +1,2 @@
 Rename-Computer -NewName "CBT-Tutoring-01" -Force
+Restart-Computer -Force
