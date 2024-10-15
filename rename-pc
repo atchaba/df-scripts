@@ -1,1 +1,1 @@
-Rename-Computer -NewName $args[0]
+Rename-Computer -NewName $args[0] -Force
