@@ -1,2 +1,2 @@
 cd "C:\Users\CBT-Student\Downloads\CBT-156-Veralab"
-.\veralab_ldap.exe /VERYSILENT /serverip=10.70.10.101 /serverpassword=welcome /unlockpassword=3yf1g4r0 /room=CBT-119 /model=Dell /image=Windows 11
+.\veralab_ldap.exe /VERYSILENT
