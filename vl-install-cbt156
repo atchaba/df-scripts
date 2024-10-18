@@ -1,2 +1,2 @@
-cd "C:\Users\CBT-Student\Downloads\CBT-156-Veralab"
+cd "C:\Users\CBT-Student\Desktop\CBT-156-Veralab"
 .\veralab_ldap.exe /VERYSILENT
